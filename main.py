@@ -12,3 +12,4 @@ else:
     # Kelime eşleşmiyorsa ne yapmalıyız?
     print("bu kelimeyi henüz biz de bilmiyoruz :( ")
 
+selamm
